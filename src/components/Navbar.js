@@ -21,7 +21,7 @@ export const Navbar = () => {
     <nav>
       <div className='nav-center'>
         <div className='nav-header'>
-          <h3> Website</h3>
+          <h3>Trips Blog</h3>
           <button className='nav-toggle' onClick={toggleLinks}>
             <FaBars />
           </button>
